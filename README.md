@@ -1,13 +1,16 @@
 This is code of RID-Noise.
 
-The code will be open-source before the conference.
-
 ## Reproduce RID-Noise Results
+
+### Toy tasks
+
+Please refer to the notebook *ridnoise.ipynb* to view experiments on three toy tasks.
+
+### Benchmarks
 
 We provide the source code to reproduce the performance of RID-Noise in the Table 1. of the paper,
 including the implementation of all the three benchmark tasks.
 
-Please refer to the notebook *ridnoise.ipynb* to view experiments on three toy tasks.
 
 To reproduce the results of the Kinematics task with x dependent noise, please run
 
