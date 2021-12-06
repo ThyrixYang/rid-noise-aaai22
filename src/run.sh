@@ -1,0 +1,9 @@
+python train_and_inference.py --method rid --task noisy_kine_x --device cuda:0
+python train_and_inference.py --method rid --task noisy_kine_y --device cuda:0
+python train_and_inference.py --method rid --task noisy_kine_xy --device cuda:0
+python train_and_inference.py --method rid --task noisy_ball_x --device cuda:0
+python train_and_inference.py --method rid --task noisy_ball_y --device cuda:0
+python train_and_inference.py --method rid --task noisy_ball_xy --device cuda:0
+python train_and_inference.py --method rid --task noisy_mm_x --device cuda:0
+python train_and_inference.py --method rid --task noisy_mm_y --device cuda:0
+python train_and_inference.py --method rid --task noisy_mm_xy --device cuda:0
